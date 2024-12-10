@@ -1,4 +1,7 @@
 # Welcome to Liveness Detection Team
+![Duit Onlen](./Duit%20Onlen.png)
+
+Our team has a focus to developed a robust liveness detection to prevent Spoofing Attacks in biometric authentication systems. We recognize the important of reliability in biometric systems. So, we decided to train machine learning model to distinguish real faces and fake representation, our technique to resolve fake representation is to used look-left, look-right, and look-up actions in the biometric features to ensure the user is a real person. We believe our machine learning model can prevent spoofing attacks and increase reliability in biometric authentication systems.
 
 ## Meet Us
 
